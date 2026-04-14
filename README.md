@@ -18,6 +18,7 @@ This is an example of a **dynamic agent** — it chooses its actions at runtime 
 
 ## Project structure
 
+```
 sql_murder_mistery_agent/
 ├── database/
 │   └── sql-murder-mystery.db
@@ -25,7 +26,7 @@ sql_murder_mistery_agent/
 ├── .env
 ├── pyproject.toml
 └── README.md
-
+```
 ## Run it yourself
 
 1. Clone the repo:
