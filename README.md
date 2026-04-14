@@ -51,6 +51,3 @@ uv run python main.py
 
 The agent identified **Jeremy Bowers** as the murderer, hired by **Miranda Priestly** — following clues across crime scene reports, witness interviews, gym membership records and car plate matches.
 
-## Part of a larger project
-
-This is week 1 of an 8-week agentic AI learning roadmap. Each week builds a new project, from basic agents to a full multi-agent system. Follow the progress on [LinkedIn](https://linkedin.com/in/sofiasanchezrodriguez).
