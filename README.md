@@ -50,5 +50,5 @@ uv run python main.py
 
 ## Result
 
-The agent identified **Jeremy Bowers** as the murderer, hired by **Miranda Priestly** — following clues across crime scene reports, witness interviews, gym membership records and car plate matches.
+The agent identified the murderer — following clues across crime scene reports, witness interviews, gym membership records and car plate matches.
 
